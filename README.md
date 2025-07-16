@@ -16,7 +16,7 @@ swe
 
 ## Projects
 
-### [real time gas leak detection] (https://sonicsensing.com)
+### [real time gas leak detection](https://sonicsensing.com)
 Real time sensors communicating with a fullstack application giving alerts for when there is a gas leak.
 - **Tech** - **Database** TSDB(InfluxDB), PSQL(SqlAlchemy), Alembic - **Frontend** Next.js, React, Shadcn, TailwindCSS - **Infra** - Docker, Github Actions
 - **Features** Custom DSP work for low powered devices 
