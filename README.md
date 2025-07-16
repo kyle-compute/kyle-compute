@@ -1,6 +1,6 @@
 # Kyle
 
-Hardware & Full Stack progrmaming
+swe
 
 ## Tech Stack
 
