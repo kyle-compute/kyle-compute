@@ -14,6 +14,13 @@ swe
 - PostgreSQL, InfluxDB
 - OpenCV
 
+## Open Source Contributions
+### [malloy]([https://kylecompute.lol](https://github.com/Tectu/malloy/))
+- Added http_request overload that defaults to GET method
+- Only accepts URL, callback, also optional filter parameters
+- Forwards to existing http_reques
+
+
 ## Projects
 
 ### [real time gas leak detection](https://sonicsensing.com)
