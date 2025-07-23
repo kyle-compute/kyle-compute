@@ -1,49 +1,26 @@
 # Kyle
-
-swe
+Software Engineer
 
 ## Tech Stack
+**Languages**: C++, Python, TypeScript  
+**Backend**: FastAPI, Pydantic, SQLAlchemy  
+**Frontend**: React, Next.js  
+**Infrastructure**: Docker, Nginx, GitHub Actions  
+**Databases**: PostgreSQL, InfluxDB  
 
-**Languages & Frameworks**
-- C++, Python, TypeScript
-- FastAPI, Pydantic, SQLAlchemy
-- React, Next.js
+## Featured Projects
 
-**Infrastructure & Tools**
-- Docker, Nginx, GitHub Actions
-- PostgreSQL, InfluxDB
-- OpenCV
+**[Real-time Gas Leak Detection](https://sonicsensing.com)** - Fullstack IoT application with real-time sensor monitoring and alerting  
+*Next.js, InfluxDB, PostgreSQL, Docker*
 
-## Open Source Contributions
-### [malloy](https://github.com/Tectu/malloy/)
-- Added http_request overload that defaults to GET method
-- Only accepts URL, callback, also optional filter parameters
-- Forwards to existing http_request
+**[imagetogcode](https://github.com/kyle-compute/imagetogcode)** - Web-based image to G-code converter for CNC machines  
+*Next.js, TypeScript, OpenCV.js*
 
+**[StartupBot](https://github.com/kyle-compute/StartupBot)** - Open-source ELO rating Discord bot for startup founders  
+*Python, PostgreSQL, Redis, Docker*
 
-## Projects
+## Open Source
+Contributor to [malloy](https://github.com/Tectu/malloy/) - Added simplified HTTP request overload
 
-### [real time gas leak detection](https://sonicsensing.com)
-Real time sensors communicating with a fullstack application giving alerts for when there is a gas leak.
-- **Tech** - **Database** TSDB(InfluxDB), PSQL(SqlAlchemy), Alembic - **Frontend** Next.js, React, Shadcn, TailwindCSS - **Infra** - Docker, Github Actions
-- **Features** Custom DSP work for low powered devices 
-
-### [imagetogcode](https://github.com/kyle-compute/imagetogcode)
-Web-based image to G-code converter using OpenCV.js vectorization for CNC machines
-- **Tech**: Next.js, TypeScript, OpenCV.js, Tailwind CSS
-- **Features**: Color region vectorization, centerline extraction, path optimization
-
-### [StartupBot](https://github.com/kyle-compute/StartupBot)
-Open-sourced ELO rating Discord bot for startup founders
-- **Tech**: Python, PostgreSQL, Redis, Docker
-- **Features**: Challenge system, sprint competitions, peer review workflow
-
-### [StravaTPOT](https://github.com/kyle-compute/StravaTPOT)
-Strava TPOT PR leaderboard system (in development...)
-- **Tech**: Python, FastAPI, SQLAlchemy
-
-### [Personal Site](https://kylecompute.lol)
-Portfolio and project showcase
-
-
-*Note: Commit history was reset due to email change*
+## Links
+[Portfolio](https://kylecompute.lol) • [More Projects](https://github.com/kyle-compute)
