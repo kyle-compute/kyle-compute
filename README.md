@@ -18,7 +18,7 @@ swe
 ### [malloy](https://github.com/Tectu/malloy/)
 - Added http_request overload that defaults to GET method
 - Only accepts URL, callback, also optional filter parameters
-- Forwards to existing http_reques
+- Forwards to existing http_request
 
 
 ## Projects
