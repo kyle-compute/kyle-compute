@@ -8,6 +8,9 @@ Software Engineer
 **Infrastructure**: Docker, Nginx, GitHub Actions  
 **Databases**: PostgreSQL, InfluxDB  
 
+## Currently working on
+- vLLM inference pipeline for autodocumentation 
+
 ## Featured Projects
 
 **[Real-time Gas Leak Detection](https://sonicsensing.com)** - Fullstack IoT application with real-time sensor monitoring and alerting  
