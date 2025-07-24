@@ -24,7 +24,7 @@ Software Engineer
 
 ## Open Source
 - Contributor to [malloy](https://github.com/Tectu/malloy/) - Added simplified HTTP request overload
-- Contributor to [mathjs](https://github.com/josdejong/mathjs) - Fixed edge case with sign of zero fraction should return 0/1 instead of 1/1
+- Contributor to [mathjs](https://github.com/josdejong/mathjs/commit/aedbee550d156ca47e727a9604cff6fba6093756) - Fixed edge case with sign of zero fraction should return 0/1 instead of 1/1
 
 ## Links
 [Portfolio](https://kylecompute.lol) • [More Projects](https://github.com/kyle-compute)
