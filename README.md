@@ -9,7 +9,7 @@ Software Engineer
 **Databases**: PostgreSQL, InfluxDB  
 
 ## Currently working on
-- vLLM inference pipeline for autodocumentation 
+- vLLM inference pipeline for autodocumentation (7/25/25: optimized to hit 180tokens/second on a 4080super :D, INT4 quantization 4B param model)
 
 ## Featured Projects
 
