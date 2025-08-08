@@ -6,7 +6,9 @@ Software Engineer
 **Backend**: FastAPI, Pydantic, SQLAlchemy  
 **Frontend**: React, Next.js  
 **Infrastructure**: Docker, Nginx, GitHub Actions  
-**Databases**: PostgreSQL, InfluxDB  
+**Databases**: PostgreSQL, TimeSeriesDBs  
+**Inference**: vLLM, llama.cpp
+**Agent building** MCP, Langchain(moreso experienced with custom MCP rules)
 
 ## Currently working on
 - vLLM inference pipeline for autodocumentation (7/25/25: optimized to hit 180tokens/second on a 4080super :D, INT4 quantization 4B param model)
