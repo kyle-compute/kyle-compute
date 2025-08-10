@@ -8,7 +8,6 @@ Software Engineer
 **Infrastructure**: Docker, Nginx, GitHub Actions  
 **Databases**: PostgreSQL, TimeSeriesDBs  
 **Inference**: vLLM, llama.cpp 
-
 **Agent building**: MCP, Langchain (moreso experienced with custom MCP rules)
 
 ## Currently working on
