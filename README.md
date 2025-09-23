@@ -12,7 +12,7 @@ Software Engineer
 **Agent building**: MCP, Langchain (moreso experienced with custom MCP rules)
 
 ## Currently working on
-- vLLM inference pipeline for autodocumentation (7/25/25: optimized to hit 180tokens/second on a 4080super :D, INT4 quantization 4B param model)
+AI Agent for Medical Billing (Working)
 
 ## Featured Projects
 
@@ -24,6 +24,10 @@ Software Engineer
 
 **[StartupBot](https://github.com/kyle-compute/StartupBot)** - Open-source ELO rating Discord bot for startup founders  
 *Python, PostgreSQL, Redis, Docker*
+
+## Cool Things
+
+vLLM inference pipeline for autodocumentation (7/25/25: optimized to hit 180tokens/second on a 4080super :D, INT4 quantization 4B param model)
 
 ## Open Source
 - Contributor to [malloy](https://github.com/Tectu/malloy/) - Added simplified HTTP request overload
