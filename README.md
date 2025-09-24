@@ -9,7 +9,7 @@ Software Engineer
 **Databases**: PostgreSQL, TimeSeriesDBs  
 **Inference**: vLLM, llama.cpp 
 
-**Agent building**: MCP, Langchain (moreso experienced with custom MCP rules)
+**Agent building**: MCP, Langchain (Dont use this), Custom Agent with Memory control & Tool parsing
 
 ## Currently working on
 AI Agent for Medical Billing (Working)
