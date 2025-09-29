@@ -2,7 +2,7 @@
 Software Engineer
 
 ## Tech Stack
-**Languages**: C++, Python, TypeScript  
+**Languages**: C++, Python, TypeScript, C#, Assembly 
 **Backend**: FastAPI, Pydantic, SQLAlchemy  
 **Frontend**: React, Next.js  
 **Infrastructure**: Docker, Nginx, GitHub Actions  
