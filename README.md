@@ -1,37 +1,52 @@
-# Kyle
-Software Engineer
+# Kyle — Embedded Systems, ML, and Web (Somehow)
+---
 
-## Tech Stack
-**Languages**: C++, Python, TypeScript, C#, Assembly 
-**Backend**: FastAPI, Pydantic, SQLAlchemy  
-**Frontend**: React, Next.js  
-**Infrastructure**: Docker, Nginx, GitHub Actions  
-**Databases**: PostgreSQL, TimeSeriesDBs  
-**Inference**: vLLM, llama.cpp 
+## Skills & Expertise  
 
-**Agent building**: MCP, Langchain (Dont use this), Custom Agent with Memory control & Tool parsing
+### Infrastructure & Databases  
+Docker · Linux · Git · Nginx · AWS · DigitalOcean · Firebase · PostgreSQL · InfluxDB · SQLite  
 
-## Currently working on
-AI Agent for Medical Billing (Working)
+### Languages & Frameworks  
+C++ · Python · TypeScript · React · Next.js · PyTorch · vLLM · OpenCV · Pydantic · SQLAlchemy  
 
-## Featured Projects
+---
 
-**[Real-time Gas Leak Detection](https://sonicsensing.com)** - Fullstack IoT application with real-time sensor monitoring and alerting  
-*Next.js, InfluxDB, PostgreSQL, Docker*
+## Work & Research  
 
-**[imagetogcode](https://github.com/kyle-compute/imagetogcode)** - Web-based image to G-code converter for CNC machines  
-*Next.js, TypeScript, OpenCV.js*
+### **AI for Medical Billing Automation** *(Active)*  
+Building an AI agent for revenue recovery in U.S. medical practices.  
+- Trained and fine-tuned domain-specific embedding models for clinical and billing data  
+- Implemented INT4-quantized vLLM inference stack (180 tok/s on RTX 4080 Super)  
+- RAG + regex-prior prompting for form understanding and document automation  
+**Tech:** Python · vLLM · Docker · AWS · Regex · Embeddings  
 
-**[StartupBot](https://github.com/kyle-compute/StartupBot)** - Open-source ELO rating Discord bot for startup founders  
-*Python, PostgreSQL, Redis, Docker*
+### **Model Training & Fine-Tuning**  
+- Custom tokenizer and dataset pipeline for structured EHR and CPT/ICD code mapping  
+- Supervised fine-tuning for entity extraction and denoising on limited medical datasets  
+- Embedding alignment for cross-document retrieval and billing claim resolution  
+**Tech:** PyTorch · Transformers · LoRA · SentenceTransformers  
 
-## Cool Things
+### **Real-Time Gas Leak Sensors** *(Completed)*  
+ESP32-based wireless network for compressed gas leak detection and DSP signal analysis.  
+**Tech:** C++ · PostgreSQL · InfluxDB · Docker · DigitalOcean  
 
-vLLM inference pipeline for autodocumentation (7/25/25: optimized to hit 180tokens/second on a 4080super :D, INT4 quantization 4B param model)
+### **Image-to-G-Code Converter** *(Completed)*  
+Web app that converts images into CNC-ready G-code through OpenCV.js vectorization.  
+**Tech:** TypeScript · React · Next.js · OpenCV.js · TailwindCSS  
 
-## Open Source
-- Contributor to [malloy](https://github.com/Tectu/malloy/) - Added simplified HTTP request overload
-- Contributor to [mathjs](https://github.com/josdejong/mathjs/commit/aedbee550d156ca47e727a9604cff6fba6093756) - Fixed edge case with sign of zero fraction should return 0/1 instead of 1/1
+### **CUAS on Ultra-Low-Power Systems** *(Completed)*  
+Counter-UAS computer vision detection running on sub-500mW embedded systems.  
+**Tech:** C++ · MicroPython · OpenCV · CUDA  
 
-## Links
-[Portfolio](https://kylecompute.lol) • [More Projects](https://github.com/kyle-compute)
+### **MLH Elobot** *(Completed)*  
+Discord bot for gamified founder productivity using ELO ranking and weekly sprints.  
+**Tech:** Python · PostgreSQL · Docker  
+
+---
+
+## Open Source  
+- Contributor: [malloy](https://github.com/Tectu/malloy/) — Simplified HTTP overload implementation  
+- Contributor: [mathjs](https://github.com/josdejong/mathjs/commit/aedbee550d156ca47e727a9604cff6fba6093756) — Fixed fraction sign edge case  
+
+---
+
