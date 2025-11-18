@@ -18,6 +18,7 @@ Building an AI agent for revenue recovery in U.S. medical practices.
 - Trained and fine-tuned domain-specific embedding models for clinical and billing data  
 - Implemented INT4-quantized vLLM inference stack (180 tok/s on RTX 4080 Super)  
 - RAG + regex-prior prompting for form understanding and document automation  
+- Achieved 99.98% semantic accuracy on CPT billing codes
 **Tech:** Python · vLLM · Docker · AWS · Regex · Embeddings  
 
 ### **Model Training & Fine-Tuning**  
