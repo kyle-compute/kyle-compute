@@ -1,10 +1,21 @@
-# Kyle — Embedded Systems, ML, and Web (Somehow)
+# Kyle — Embedded Systems, ML, and Web
 ---
+
+
+## All of the below is boring, all that matters is that im hiring for [Razorbill](https://joinrazorbill.com)
+
+### Requirements
+- Be comfortable with python object model
+- FastAPI/Pydantic/SQLAlchemy usage
+- Docker Compose / Docker for containerization
+- PEP8 Programming style (not a big deal but a plus)
+- Javascript (Namely react)
+
 
 ## Skills & Expertise  
 
 ### Infrastructure & Databases  
-Docker · Linux · Git · Nginx · AWS · DigitalOcean · Firebase · PostgreSQL · InfluxDB · SQLite  
+Docker · Linux · Git · Nginx · AWS · DigitalOcean · Firebase · PostgreSQL · InfluxDB 
 
 ### Languages & Frameworks  
 C++ · Python · TypeScript · React · Next.js · PyTorch · vLLM · OpenCV · Pydantic · SQLAlchemy  
