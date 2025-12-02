@@ -11,6 +11,8 @@
 - PEP8 Programming style (not a big deal but a plus)
 - Javascript (Namely react)
 
+Email: kyle@joinrazorbill.com your resume & github (Only US citizens who are capable of moving to San Diego February 2026)
+
 
 ## Skills & Expertise  
 
